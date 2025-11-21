@@ -1,0 +1,26 @@
+title: "CartiMorph: A Framework for Automated Knee Articular Cartilage Morphometrics"
+description: "CartiMorph provides a framework for automated knee articular cartilage morphometrics, including thickness mapping and full-thickness cartilage loss estimation."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cartimorph.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author details
+authors:
+  - name: Yongcheng Yao
+    url: "https://yongchengyao.github.io"
+  - name: Junru Zhong
+  - name: Liping Zhang
+  - name: Sheheryar Khan
+  - name: Weitian Chen
+
+publication: "Medical Image Analysis, 2024"
+doi: "https://doi.org/10.1016/j.media.2023.103035"
+
+links:
+  paper: "https://www.sciencedirect.com/science/article/pii/S1361841523002955?via%3Dihub"
+  arxiv: "https://arxiv.org/abs/2308.01981"
+  code: "https://github.com/YongchengYAO/CartiMorph"
+  data: "https://huggingface.co/datasets/YongchengYAO/OAIZIB-CM"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal # Fallback, but we use custom layout
