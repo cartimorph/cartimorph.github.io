@@ -1,5 +1,4 @@
-# CartiMorph
-The project page for [CartiMorph](https://cartimorph.github.io/).
+# [CartiMorph](https://cartimorph.github.io)
 
 ```bibtex
 @article{YAO2024103035,
